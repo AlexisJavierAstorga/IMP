@@ -276,7 +276,7 @@ img {
   padding-right: 0;
   width: 30px;
   height: 30px;
-  background-color: #2aaa27;
+  background-color: #a3aa27;
   line-height: 30px;
   text-align: center;
   position: absolute;
@@ -299,7 +299,7 @@ textarea:focus {
 
 /* ScrollUp */
 #scrollUp {
-  background-color: #2aaa27;
+  background-color: #a3aa27;
   border-radius: 0;
   bottom: 60px;
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.3);
@@ -314,7 +314,7 @@ textarea:focus {
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms; }
   #scrollUp:hover {
-    background-color: #4f6ac3; }
+    background-color: #6b2c52; }
   @media only screen and (max-width: 767px) {
     #scrollUp {
       bottom: 30px;
@@ -325,7 +325,7 @@ textarea:focus {
   display: inline-block;
   min-width: 160px;
   height: 40px;
-  background-color: #2aaa27;
+  background-color: #a3aa27;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -342,15 +342,15 @@ textarea:focus {
     font-size: 14px;
     font-weight: 600;
     color: #ffffff;
-    background-color: #4f6ac3; }
+    background-color: #6b2c52; }
   .clever-btn.btn-2 {
     background-color: transparent;
     border: 1px solid #ebebeb;
     color: rgba(0, 0, 0, 0.25); }
     .clever-btn.btn-2:hover, .clever-btn.btn-2:focus {
       color: #ffffff;
-      background-color: #4f6ac3;
-      border: 1px solid #4f6ac3; }
+      background-color: #6b2c52;
+      border: 1px solid #6b2c52; }
 
 /* :: 4.0 Header Area */
 .header-area {
@@ -508,12 +508,12 @@ textarea:focus {
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 14px;
-    color: #2aaa27;
+    color: #a3aa27;
     line-height: 40px; }
     .register-login-area a.active, .register-login-area a:hover, .register-login-area a:focus {
-      background-color: #ddfcd8;
+      background-color: #fff8c7;
       font-weight: 600;
-      color: #2aaa27; }
+      color: #a3aa27; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .register-login-area a {
         padding: 0 15px; } }
@@ -534,7 +534,7 @@ textarea:focus {
       font-size: 13px;
       font-weight: 600; }
       .login-state .user-name .dropdown-menu .dropdown-item:hover, .login-state .user-name .dropdown-menu .dropdown-item:focus {
-        color: #2aaa27; }
+        color: #a3aa27; }
   .login-state .userthumb {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 40px;
@@ -581,7 +581,7 @@ textarea:focus {
   .single-cool-facts-area h2 {
     font-size: 36px;
     margin-bottom: 5px;
-    color: #2aaa27; }
+    color: #a3aa27; }
   .single-cool-facts-area h5 {
     margin-bottom: 0;
     font-size: 18px;
@@ -655,7 +655,7 @@ textarea:focus {
       color: #ffffff;
       letter-spacing: 0.75px; }
       .single-popular-course .seat-rating-fee .course-fee a.free {
-        background-color: #2aaa27; }
+        background-color: #a3aa27; }
 
 .single-course-intro {
   position: relative;
@@ -701,7 +701,7 @@ textarea:focus {
     .single-course-intro .single-course-intro-content .price {
       font-size: 12px;
       text-transform: uppercase;
-      color: #2aaa27;
+      color: #a3aa27;
       letter-spacing: 0.75px;
       font-weight: 700; }
 
@@ -1048,7 +1048,7 @@ textarea:focus {
     z-index: -1; }
   .instructors-video h2 {
     font-size: 100px;
-    color: #2aaa27;
+    color: #a3aa27;
     margin-bottom: 0; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .instructors-video h2 {
@@ -1077,7 +1077,7 @@ textarea:focus {
     .instructors-video .video-btn:hover {
       background-color: #fff; }
       .instructors-video .video-btn:hover i {
-        color: #2aaa27; }
+        color: #a3aa27; }
 
 .single-instructor {
   position: relative;
@@ -1283,7 +1283,7 @@ textarea:focus {
       color: #ffffff;
       letter-spacing: 0.75px; }
       .single-upcoming-events .date-fee .events-fee a.free {
-        background-color: #2aaa27; }
+        background-color: #a3aa27; }
 
 /* :: 9.0 Register Now */
 .register-now {
@@ -1369,7 +1369,7 @@ textarea:focus {
       margin-right: 12px;
       font-size: 36px;
       font-weight: 700;
-      color: #2aaa27; }
+      color: #a3aa27; }
       .register-now .register-now-countdown .events-cd div span {
         margin-top: 0;
         color: rgba(255, 255, 255, 0.7);
@@ -1452,7 +1452,7 @@ textarea:focus {
       display: inline-block;
       padding: 0 10px; }
       .single-tutors-slides .tutor-information .social-info a:hover, .single-tutors-slides .tutor-information .social-info a:focus {
-        color: #4f6ac3; }
+        color: #6b2c52; }
 
 .center .single-tutors-slides .tutor-information {
   display: block; }
@@ -1474,7 +1474,7 @@ textarea:focus {
   transition-duration: 500ms; }
   .tutors-slide .owl-prev:hover,
   .tutors-slide .owl-next:hover {
-    background-color: #4f6ac3;
+    background-color: #6b2c52;
     color: #ffffff; }
 .tutors-slide .owl-next {
   left: auto;
@@ -1504,7 +1504,7 @@ textarea:focus {
         -webkit-transition-duration: 500ms;
         transition-duration: 500ms; }
         .single-blog-area .blog-content .blog-headline h4:hover, .single-blog-area .blog-content .blog-headline h4:focus {
-          color: #4f6ac3; }
+          color: #6b2c52; }
     .single-blog-area .blog-content .meta {
       margin-bottom: 15px; }
       .single-blog-area .blog-content .meta span {
@@ -1552,7 +1552,7 @@ textarea:focus {
     .blog-catagories .single-catagories h6 {
       font-size: 14px;
       margin-bottom: 0;
-      color: #2aaa27;
+      color: #a3aa27;
       text-transform: uppercase;
       letter-spacing: 0.75px;
       line-height: 1.9;
@@ -1603,8 +1603,8 @@ textarea:focus {
         border-radius: 6px;
         margin-right: 10px; }
         .blog-details-text .post-tags ul li a:hover, .blog-details-text .post-tags ul li a:focus {
-          border: 1px solid #2aaa27;
-          background-color: #2aaa27;
+          border: 1px solid #a3aa27;
+          background-color: #a3aa27;
           color: #ffffff; }
         @media only screen and (max-width: 767px) {
           .blog-details-text .post-tags ul li a {
@@ -1688,7 +1688,7 @@ textarea:focus {
       font-size: 14px;
       letter-spacing: 1px;
       text-transform: uppercase;
-      color: #2aaa27; }
+      color: #a3aa27; }
 
 /* :: 12.0 Breadcumb Area */
 .breadcumb-area {
@@ -1735,7 +1735,7 @@ textarea:focus {
     font-size: 30px;
     text-transform: uppercase;
     letter-spacing: 0.75px;
-    color: #2aaa27;
+    color: #a3aa27;
     margin-bottom: 0; }
     @media only screen and (max-width: 767px) {
       .clever-catagory h3 {
